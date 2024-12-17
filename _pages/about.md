@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Bangzhang MA (also 马榜章/マー　バンジャン)"
+title: "Bangzhang MA 
+        (马榜章/マー　バンジャン)"
 author_profile: true
 redirect_from: 
   - /about/
